@@ -120,11 +120,17 @@ bun install
 Create a `.env` file inside the `server` directory:
 
 OPENAI_API_KEY=
+
 DATABASE_URL=
+
 DATABASE_USER=
+
 DATABASE_PASSWORD=
+
 DATABASE_NAME=
+
 DATABASE_HOST=
+
 DATABASE_PORT=
 
 ---
